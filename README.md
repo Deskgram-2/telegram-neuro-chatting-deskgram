@@ -42,6 +42,15 @@
 4. Подключите AI и параметры генерации.
 5. Выберите аккаунты и запустите задачу.
 
+## Что обычно усиливает этот сценарий
+
+- [Нейрокомментинг](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram), если рядом идет AI-активность в комментариях и обсуждениях;
+- [Автоответчик](https://github.com/Deskgram-2/telegram-autoresponder-deskgram), если нужен фоновый слой обработки входящих вне групповых триггеров;
+- [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram), если чаттинг распределяется по сетке аккаунтов;
+- [Управление прокси](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram), если важна стабильность инфраструктуры под чатную активность;
+- [Настройки](https://github.com/Deskgram-2/telegram-automation-settings-deskgram), если AI и общие параметры должны быть подготовлены заранее;
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram), если хотите контролировать ошибки, подвисания и общий темп сценария.
+
 ## Как устроен сценарий
 
 ### Основные настройки
@@ -87,6 +96,10 @@
 - [Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation)
 - [Нейрокомментинг](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram)
 - [Автоответчик](https://github.com/Deskgram-2/telegram-autoresponder-deskgram)
+- [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram)
+- [Управление прокси](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram)
+- [Настройки](https://github.com/Deskgram-2/telegram-automation-settings-deskgram)
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram)
 
 ## FAQ
 
