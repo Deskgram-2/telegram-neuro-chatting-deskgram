@@ -1,13 +1,13 @@
-# Нейрочаттинг в Telegram через Deskgram 2
+﻿# Нейрочаттинг в Telegram через Deskgram 2
 
 Нейрочаттинг в Deskgram 2 — это AI-модуль для автоматических ответов в Telegram-чатах и группах. Он позволяет реагировать на сообщения по выбранной логике: по всем входящим, по ключевым словам или по другим условиям, используя AI для генерации ответа и дополнительные фильтры поведения.
 
-[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
+[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=ru)
 ## Интерактивный Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneurochatting)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneurochatting&lang=ru)
 
-Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneurochatting)
+Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneurochatting&lang=ru)
 
 
 
@@ -131,4 +131,5 @@
 - [Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation)
 - [Сайт Deskgram 2](https://deskgram2.com/)
 - [Telegram-бот Deskgram 2](https://t.me/DG2welcomebot)
-- [Web preview](https://deskgram2.com/web-preview)
+- [Web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=ru)
+
